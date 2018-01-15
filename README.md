@@ -1,1 +1,1 @@
-playstore-scraper-php is a web script for downloading Android application,available online.
+playstore-scraper-php is a php script for downloading Android application,available online.
